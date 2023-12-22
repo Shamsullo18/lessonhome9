@@ -1,0 +1,182 @@
+*{
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body{
+    background-color: rgb(223, 223, 223);
+}
+.container{
+    width: 85%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.left-content{
+    margin-top: 15px;
+    margin-left: -50px;
+    width: 34%;
+    height: 950px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 5px 5px 15px gray;
+}
+.left-content h5{
+    margin-left: 25px;
+}
+.right-content{
+    margin-top: 15px;
+    width: 68%;
+    height: 1100px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 5px 5px 15px gray;
+}
+.photoshop{
+    width: 90%;
+    margin: auto;
+    height: 20px;
+    border-radius: 30px;
+    text-align: center;
+    background-color: rgb(204, 204, 204);
+}
+.photoshop p{
+    width:90%; 
+    height: 20px;
+    background-color: darkcyan;
+    border-radius: 30px;
+}
+.left-content p{
+    color: darkcyan;
+}
+.left-content i{
+    color: darkcyan;
+}
+.left-content h5{
+    color: rgb(113, 113, 113);
+}
+.left-content h4{
+    color: rgb(113, 113, 113);
+}
+.photoshop1{
+    width: 90%;
+    margin: auto;
+    height: 20px;
+    border-radius: 30px;
+    text-align: center;
+    background-color: rgb(204, 204, 204);
+}
+.photoshop1 p{
+    width:80%; 
+    height: 20px;
+    background-color: darkcyan;
+    border-radius: 30px;
+}
+.photoshop2{
+    width: 90%;
+    margin: auto;
+    height: 20px;
+    border-radius: 30px;
+    text-align: center;
+    background-color: rgb(204, 204, 204);
+}
+.photoshop2 p{
+    width: 75%; 
+    height: 20px;
+    background-color: darkcyan;
+    border-radius: 30px;
+}
+.photoshop3{
+    width: 90%;
+    margin: auto;
+    height: 20px;
+    border-radius: 30px;
+    text-align: center;
+    background-color: rgb(204, 204, 204);
+}
+.photoshop3 p{
+    width:50%; 
+    height: 20px;
+    background-color: darkcyan;
+    border-radius: 30px;
+}
+.photoshop4{
+    width: 90%;
+    margin: auto;
+    height: 20px;
+    border-radius: 30px;
+    text-align: center;
+    background-color: rgb(204, 204, 204);
+}
+.photoshop4 p{
+    width:100%; 
+    height: 20px;
+    background-color: darkcyan;
+    border-radius: 30px;
+}
+.photoshop5{
+    width: 90%;
+    margin: auto;
+    height: 20px;
+    border-radius: 30px;
+    text-align: center;
+    background-color: rgb(204, 204, 204);
+}
+.photoshop5 p{
+    width:60%; 
+    height: 20px;
+    background-color:darkcyan;
+    border-radius: 30px;
+}
+.photoshop6{
+    width: 90%;
+    margin: auto;
+    height: 20px;
+    border-radius: 30px;
+    text-align: center;
+    background-color: rgb(204, 204, 204);
+}
+.photoshop6 p{
+    width:35%; 
+    height: 20px;
+    background-color: darkcyan;
+    border-radius: 30px;
+}
+.right-content h1{
+    margin-left: 30px;
+    color: grey;
+}
+.right-content h2{
+    margin-left: 30px;
+    color: grey;
+}
+.right-content h6{
+    margin-left: 30px;
+    color: grey;
+}
+.right-content button{
+  border: none;
+  border-radius: 20px;
+}
+.right-content p{
+    margin-left: 30px;
+}
+.right-content h5{
+    margin-left: 30px;
+    color: grey;
+}
+fieldset p{
+    text-align: center;
+    background-color: darkcyan;
+    color: white;
+}
+fieldset a{
+   color: antiquewhite;
+}
+#o18{
+    border: none;
+    background-color: rgb(223, 223, 223);
+}
+#o19{
+    border: none;
+    height: 100px;
+    background-color: darkcyan;
+    margin-top: 20px;
+}
